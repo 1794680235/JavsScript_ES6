@@ -1,0 +1,2 @@
+# JavsScript_ES6
+该存储库将记录Javascript的ES6的相关技术内容
